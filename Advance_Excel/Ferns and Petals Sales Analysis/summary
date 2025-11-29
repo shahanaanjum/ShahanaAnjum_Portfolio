@@ -1,0 +1,49 @@
+Detailed Summary of the Sales Analysis Dashboard
+
+1. Key Performance Indicators (KPIs)
+
+Total Orders: 1000 orders processed.
+Total Revenue: £3,520,984 generated overall.
+Average Order-Delivery Time: 5.53 days on average.
+Average Customer Spend: £3,520.98 per customer.
+
+2. Revenue Insights
+
+a. Revenue by Occasions
+Highest revenue generated from Anniversary, Holi, and Raksha Bandhan occasions.
+Lower revenue observed for Birthday and Diwali events.
+
+b. Revenue by Category
+Colors and Sweets categories contribute the most to revenue.
+Mugs, Plants, and Soft Toys show moderate performance.
+Cake category contributes a smaller share.
+
+c. Revenue by Months
+Peak revenue in February and August, showing seasonal sales spikes.
+Revenue dips observed during April–June and September.
+
+d. Revenue by Location
+Ghaziabad, Bhatkal, and Hazratganj are top-earning locations.
+Revenue is consistent across locations with no extreme variations.
+
+3. Order Insights
+
+a. Top 10 Cities by Order Volume
+Cities like Dhanbad, Imphal, Kavali, and Gunakal show the highest number of orders.
+Certain cities maintain moderate but steady order volume.
+
+b. Top 5 Products by Revenue
+Best-selling products include Magman Set, Dolores Gift, and Harum Pack.
+Deserunt Box and Quia Gift also show strong performance.
+
+4. Dashboard Interactivity
+Includes dynamic slicers for:
+Delivery Date
+Order Date
+Occasion
+Users can filter the data across months, years, and events for deeper analysis.
+
+5. Overall Analysis Summary
+The business shows strong seasonal performance, especially during festive periods.
+Certain categories (Colors, Sweets) and cities (Dhanbad, Imphal) significantly drive revenue and orders.
+Interactive filters enhance decision-making by allowing customized views of the sales data.
